@@ -1,0 +1,58 @@
+{
+    "[333] 444 - 555": {
+        "customer": "333",
+        "location": "444",
+        "device": "555",
+        "ip": "192.168.10.10",
+        "subnet": "255.255.255.0",
+        "gateway": "192.168.10.1"
+    },
+    "[666] 666 - 666": {
+        "customer": "666",
+        "location": "666",
+        "device": "666",
+        "ip": "6.6.6.6",
+        "subnet": "6.6.6.6",
+        "gateway": "6.6.6.6"
+    },
+    "[777] 777 - 777": {
+        "customer": "777",
+        "location": "777",
+        "device": "777",
+        "ip": "7.7.7.7",
+        "subnet": "7.7.7.7",
+        "gateway": "7.7.7.7"
+    },
+    "[888] 888 - 888": {
+        "customer": "888",
+        "location": "888",
+        "device": "888",
+        "ip": "8.8.8.8",
+        "subnet": "8.8.8.8",
+        "gateway": "8.8.8.8"
+    },
+    "[999] 999 - 999": {
+        "customer": "999",
+        "location": "999",
+        "device": "999",
+        "ip": "9.9.9.9",
+        "subnet": "9.9.9.9",
+        "gateway": "9.9.9.9"
+    },
+    "[더스카이케이] A부조정실 - 자막기": {
+        "customer": "더스카이케이",
+        "location": "A부조정실",
+        "device": "자막기",
+        "ip": "9.9.9.9",
+        "subnet": "9.9.9.9",
+        "gateway": "9.9.9.9"
+    },
+    "[abcd] abcd - abcd": {
+        "customer": "abcd",
+        "location": "abcd",
+        "device": "abcd",
+        "ip": "0.0.0.0",
+        "subnet": "0.0.0.0",
+        "gateway": "0.0.0.0"
+    }
+}
